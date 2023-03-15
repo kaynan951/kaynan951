@@ -2,8 +2,10 @@
 
 📚 - Estudante de Ciência da Computação (UFC) </br>
 💻 - Programo principalmente em C/C++ </br>
-🤓 - Além disso, também programo em JS e PHP </br>
+🤓 - Além disso, também programo em JS </br>
 🧐 - Também possuo conhecimento em HTML e CSS </br>
+🧠 - Em aprendizado -> Node e React </br>
+
 
 <div align="center">
   <a href="https://github.com/kaynan951">
@@ -15,6 +17,9 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  
 </div>
 
 ##
