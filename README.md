@@ -1,10 +1,6 @@
 ### Olá! Eu sou Kaynan 👋
 
 📚 - Estudante de Ciência da Computação (UFC) </br>
-💻 - Programo principalmente em C/C++ </br>
-🤓 - Além disso, também programo em JS </br>
-🧐 - Também possuo conhecimento em HTML e CSS </br>
-🧠 - Em aprendizado -> Node e React </br>
 
 
 <div style="display: inline_block"><br>
